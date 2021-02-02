@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O acelerador de audio para whatsapp insere um botão no whatsapp web com a função de acelerar todos os audios abertos na página para 2x
+O acelerador de audio para whatsapp insere botões no whatsapp web com a função de acelerar os audios para 1.25x, 1.5x ou 2x.
 
 ![Web 1](https://github.com/PRBizarro/AceleradorAudioWhatsapp/blob/main/assets/img_2x.jpg)
 
